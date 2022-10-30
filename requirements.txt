@@ -1,0 +1,6 @@
+numpy==1.23.4
+onnxmltools==1.11.1
+onnxruntime==1.13.1
+pandas==1.5.1
+scikit-learn==1.1.1
+skl2onnx==1.13.0
