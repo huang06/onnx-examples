@@ -1,5 +1,11 @@
 # ONNX Examples
 
+Convertin popular ML/DL frameworks to ONNX format.
+
+## Installation
+
+Install Python packages.
+
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
