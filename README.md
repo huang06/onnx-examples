@@ -1,6 +1,6 @@
 # ONNX Examples
 
-Convertin popular ML/DL frameworks to ONNX format.
+Converting popular ML/DL frameworks to ONNX format.
 
 ## Installation
 
